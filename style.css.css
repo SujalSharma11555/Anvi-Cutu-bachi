@@ -1,0 +1,65 @@
+/* Global Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #fef2f2;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Section */
+header {
+    text-align: center;
+    background-color: #ffcccb;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #5f4b8b;
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #333;
+}
+
+/* Message Section */
+.message {
+    text-align: center;
+    margin: 0 20px;
+    padding: 20px;
+}
+
+.message h2 {
+    font-size: 2rem;
+    color: #d94f6f;
+}
+
+.message p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #666;
+}
+
+/* Creator Info Section */
+.creator-info {
+    text-align: center;
+    padding: 20px;
+}
+
+.creator-info h3 {
+    font-size: 1.5rem;
+    color: #ff6f61;
+}
+
+/* Footer Section */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ffcccb;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
